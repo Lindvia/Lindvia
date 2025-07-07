@@ -35,17 +35,17 @@ Assesment using Cypress
 
 ## 🌟 Featured Work
 
-- 🚀 Developing E2E test automation using **Playwright** and **WebdriverIO**.
-- 📱  Supporting responsive web testing across multiple devices and browsers.
-- 💳 **Crypto & Payments**: Manual and automation QA for NFT platforms (e.g. ECOMI, VeVe) ensuring wallet flow and token integrity.
-- 📱 **Mobile Testing**: Experience in both Android and iOS mobile flows, including simulators/emulators and real device testing.
+-  Developing E2E test automation using **Playwright** and **WebdriverIO**.
+-  Supporting responsive web testing across multiple devices and browsers.
+-  **Crypto & Payments**: Manual and automation QA for NFT platforms (e.g. ECOMI, VeVe) ensuring wallet flow and token integrity.
+-  **Mobile Testing**: Experience in both Android and iOS mobile flows, including simulators/emulators and real device testing.
 
 ---
 
 ## 📫 Let's Connect
 
-- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/alif-shiddiq)
-- 📨 Email: [ashidiqramadhan@gmail.com]
+-  [LinkedIn](https://www.linkedin.com/in/alif-shiddiq)
+- Email: [ashidiqramadhan@gmail.com]
 
 ---
 
